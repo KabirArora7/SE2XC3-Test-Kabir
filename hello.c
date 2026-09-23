@@ -2,4 +2,5 @@
 
 void main(){
 	puts("Hello World");
+	puts("Another Change");
 }
